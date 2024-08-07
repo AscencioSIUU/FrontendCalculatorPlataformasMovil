@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- background -->
+    <color name="window_backgroud">#0d2b45</color>
+    <color name="io_background">#ffecd6</color>
+    <color name="button_background">#203c56</color>
+    <color name="button_background_left">#d08159</color>
+
+
+    <!-- text -->
+    <color name="postfix">#203c56</color>
+    <color name="result">#FF000000</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="text_left">#FFFFFFFF</color>
+
+
+    <color name="green">#4ea043</color>
+    <color name="red">#f14e52</color>
+    <color name="light_beige">#F7E7C7</color>
+
+
+
+
+</resources>
